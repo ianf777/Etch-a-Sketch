@@ -1,5 +1,7 @@
-1) -Create 16x16 grid using dom manipulation (goal)
+2) -Create 16x16 grid using dom manipulation (goal)
 -create a variable that selects the container
 -create a single square using CSS
 -Set 'container' to flex 
 -create a function that creates a 16 rows, then for each row created the function will add 16 squares to the row before appending that row to the container. The function will repeat this process 16 times, creating a 16 by 16 grid
+
+3) -
