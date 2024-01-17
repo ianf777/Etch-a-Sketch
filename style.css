@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  max-width: 800px;
+  max-height: 800px;
+}
+
+.squareRow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square {
+  border: 1px solid black;
+  max-width: 25px;
+  max-height: 25px;
+  padding: 25px;
+}
